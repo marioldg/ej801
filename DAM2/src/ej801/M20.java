@@ -9,6 +9,9 @@ import java.io.IOException;
 public class M20 {
 
 	public static void main(String[] args) {
+		
+		
+		
 		//File archivo = new File("C:\\Users\\USER\\Downloads\\entrada801.dat");
 		File archivo = new File("entrada801.dat");
 		int edades=0;
